@@ -1,5 +1,7 @@
 1) Download Node and install in your local from https://nodejs.org/en
 2) code editor - https://code.visualstudio.com/
+    ES7 React/Redux/React-Native/JS
+    Prettier - Code formatter
 3) open cmd --> node -v
 4)install react tool 
    cmd  ---> npm install create-react-app
