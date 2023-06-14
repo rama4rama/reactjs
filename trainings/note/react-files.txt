@@ -1,0 +1,4 @@
+.gitignore -- avoid the folder or files need to specify
+package-lock.json and package.json both are using for reactjs dependecies
+                  url,resources,integrity for related packages and project
+ README.md --->related application information to show others
