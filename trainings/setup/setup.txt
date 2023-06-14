@@ -1,1 +1,7 @@
 1) Download Node and install in your local from https://nodejs.org/en
+2) code editor - https://code.visualstudio.com/
+3) open cmd --> node -v
+4)install react tool 
+   cmd  ---> npm install create-react-app
+5) create app using npx 
+   npx create-react-app test
